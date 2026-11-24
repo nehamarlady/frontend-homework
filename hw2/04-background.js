@@ -1,4 +1,5 @@
-const backgroundArea = document.querySelector("#backgroundArea");
+//width and height full
+const backgroundArea = document.body;
 const intervalInput = document.querySelector("#intervalInput");
 const toggleButton = document.querySelector("#toggleButton");
 
