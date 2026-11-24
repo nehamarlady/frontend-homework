@@ -1,4 +1,3 @@
-
 import axios from 'axios';
 
 const API_URL = 'https://api.restcountries.com/countries/v5';
